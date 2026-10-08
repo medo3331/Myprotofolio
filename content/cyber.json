@@ -1,0 +1,41 @@
+{
+  "heroImage": "/images/sections/cyber-hero.jpg",
+  "intro": "بدرس سايبر سيكيورتي أكاديمياً وبطبّق اللي بتعلمه عملياً في مشاريع حقيقية.",
+  "items": [
+    {
+      "id": "web-pentesting",
+      "title": "اختبار اختراق تطبيقات الويب",
+      "description": "تعلم أساسيات Web Pentesting وتطبيقها على بيئات تدريبية.",
+      "icon": "🕸️",
+      "order": 1
+    },
+    {
+      "id": "networking",
+      "title": "أساسيات الشبكات وتحليل الحزم",
+      "description": "فهم بروتوكولات الشبكة وتحليل الحزم باستخدام أدوات مثل Wireshark.",
+      "icon": "🌐",
+      "order": 2
+    },
+    {
+      "id": "linux",
+      "title": "Linux وتقوية الأنظمة",
+      "description": "التعامل مع Linux باحتراف وتطبيق ممارسات Hardening.",
+      "icon": "🐧",
+      "order": 3
+    },
+    {
+      "id": "ctf",
+      "title": "تحديات CTF",
+      "description": "حل تحديات Capture The Flag وممارسة عملية مستمرة.",
+      "icon": "🚩",
+      "order": 4
+    },
+    {
+      "id": "secure-design",
+      "title": "Secure by Design",
+      "description": "كتابة كود آمن من مرحلة التصميم — مبدأ أساسي في كل مشاريعي.",
+      "icon": "🛡️",
+      "order": 5
+    }
+  ]
+}

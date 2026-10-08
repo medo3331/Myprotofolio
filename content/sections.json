@@ -1,0 +1,50 @@
+[
+  {
+    "key": "about",
+    "tag": "من أنا",
+    "title": "رحلتي في عالم الكود",
+    "description": "من C++ للويب — قصة مطوّر بيتعلم كل يوم.",
+    "image": "/images/sections/about.jpg",
+    "order": 1
+  },
+  {
+    "key": "skills",
+    "tag": "الأدوات",
+    "title": "المهارات والتقنيات",
+    "description": "تقنيات استخدمتها في مشاريع حقيقية.",
+    "image": "/images/sections/skills.jpg",
+    "order": 2
+  },
+  {
+    "key": "projects",
+    "tag": "أعمالي",
+    "title": "مشاريع فعلية",
+    "description": "كل مشروع بدأ من فكرة ومشكلة حقيقية.",
+    "image": "/images/sections/projects.jpg",
+    "order": 3
+  },
+  {
+    "key": "cyber",
+    "tag": "الجانب الأمني",
+    "title": "الأمن السيبراني",
+    "description": "بدرس سايبر سيكيورتي أكاديمياً وبطبّق اللي بتعلمه عملياً.",
+    "image": "/images/sections/cyber.jpg",
+    "order": 4
+  },
+  {
+    "key": "journey",
+    "tag": "رحلتي",
+    "title": "محطات في الطريق",
+    "description": "من أول سطر كود لحد النهارده.",
+    "image": "/images/sections/journey.jpg",
+    "order": 5
+  },
+  {
+    "key": "contact",
+    "tag": "تواصل",
+    "title": "خليك نعمل حاجة حقيقية",
+    "description": "مفتوح للتعاون والدردشة التقنية.",
+    "image": "/images/sections/contact.jpg",
+    "order": 6
+  }
+]

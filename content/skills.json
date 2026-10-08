@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "title": "Frontend",
+      "icon": "🎨",
+      "image": "/images/sections/skill-frontend.jpg",
+      "items": ["Next.js", "React", "Tailwind", "HTML/CSS", "JavaScript", "TypeScript"],
+      "order": 1
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "icon": "⚙️",
+      "image": "/images/sections/skill-backend.jpg",
+      "items": ["Node.js", "Python", "REST APIs", "Databases", "Authentication"],
+      "order": 2
+    },
+    {
+      "id": "core",
+      "title": "Core",
+      "icon": "🧠",
+      "image": "/images/sections/skill-core.jpg",
+      "items": ["C++", "OOP", "Data Structures", "Algorithms"],
+      "order": 3
+    },
+    {
+      "id": "cyber",
+      "title": "Cybersecurity",
+      "icon": "🔐",
+      "image": "/images/sections/skill-cyber.jpg",
+      "items": ["Networking", "Linux", "CTF", "Web Security", "Pentesting"],
+      "order": 4
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "icon": "🛠️",
+      "image": "/images/sections/skill-tools.jpg",
+      "items": ["Git", "GitHub", "VS Code", "Figma", "Vercel", "Postman"],
+      "order": 5
+    },
+    {
+      "id": "learning",
+      "title": "بتعلم حالياً",
+      "icon": "🌱",
+      "image": "/images/sections/skill-learning.jpg",
+      "items": ["Docker", "Testing", "System Design", "Cloud"],
+      "order": 6
+    }
+  ]
+}

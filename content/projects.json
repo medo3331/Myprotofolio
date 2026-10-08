@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "magiclly",
+    "title": "Magiclly",
+    "tagline": "منصة تعليمية كاملة",
+    "shortDescription": "منصة تعليمية بتتيح تصفح المحتوى والتسجيل والتفاعل — مصممة ومبنية من الصفر.",
+    "description": "Magiclly هي منصة تعليمية كاملة، صممتها وبنيّتها من الصفر. المشروع بيغطي كل مراحل المنتج: من الـ UI/UX، لبناء الواجهات، لإدارة الحالة، لربط قواعد البيانات، ونشر المنصة.",
+    "coverImage": "/images/projects/magiclly/cover.jpg",
+    "gallery": [
+      "/images/projects/magiclly/1.jpg",
+      "/images/projects/magiclly/2.jpg",
+      "/images/projects/magiclly/3.jpg"
+    ],
+    "technologies": [
+      "Next.js",
+      "Tailwind",
+      "Node.js",
+      "Database"
+    ],
+    "status": "live",
+    "featured": true,
+    "year": 2024,
+    "role": "Full-Stack Development",
+    "duration": "3 أشهر",
+    "links": {
+      "live": "https://magiclly.example.com",
+      "github": "https://github.com/yourname/magiclly"
+    },
+    "challenge": "بناء منصة تعليمية كاملة بمفردي مع الحفاظ على تجربة مستخدم سلسة وأداء عالي.",
+    "solution": "استخدمت Next.js للـ SSR وتحسين الأداء، وقسمت المشروع لمكونات قابلة لإعادة الاستخدام مع طبقة API نظيفة.",
+    "results": [
+      "المنصة تشتغل حالياً وتخدم مستخدمين",
+      "سرعة تحميل أقل من 2 ثانية",
+      "بنية كود نظيفة وقابلة للتوسع"
+    ],
+    "order": 1
+  },
+  {
+    "slug": "gym-system",
+    "title": "نظام إدارة صالة رياضية",
+    "tagline": "إدارة أعضاء واشتراكات",
+    "shortDescription": "نظام متكامل لإدارة الأعضاء، الاشتراكات، الحضور، والمدفوعات مع لوحة تحكم.",
+    "description": "نظام كامل لإدارة صالة رياضية، بيشمل إدارة الأعضاء، متابعة الاشتراكات، تسجيل الحضور، ومعالجة المدفوعات — مع لوحة تحكم للمسؤول.",
+    "coverImage": "/images/projects/gym/cover.jpg",
+    "gallery": [],
+    "technologies": [
+      "Next.js",
+      "Node.js",
+      "Database",
+      "Auth"
+    ],
+    "status": "in-progress",
+    "featured": false,
+    "year": 2025,
+    "role": "Full-Stack Development",
+    "links": {
+      "github": "https://github.com/yourname/gym-system"
+    },
+    "order": 2
+  },
+  {
+    "slug": "university-system",
+    "title": "نظام جامعي",
+    "tagline": "إدارة طلاب ومواد ودرجات",
+    "shortDescription": "إدارة الطلاب، المواد، الدرجات، والجداول بأدوار مختلفة للطالب والدكتور والإدارة.",
+    "description": "نظام جامعي متكامل بيخدم ثلاث فئات: الطلاب، أعضاء هيئة التدريس، والإدارة — بإدارة كاملة للمواد، الدرجات، والجداول الدراسية.",
+    "coverImage": "/images/projects/university/cover.jpg",
+    "gallery": [],
+    "technologies": [
+      "Full-Stack",
+      "Auth",
+      "Roles",
+      "Database"
+    ],
+    "status": "in-progress",
+    "featured": false,
+    "year": 2025,
+    "role": "Full-Stack Development",
+    "links": {
+      "github": "https://github.com/yourname/university-system"
+    },
+    "order": 3
+  },
+  {
+    "slug": "python-security-tools",
+    "title": "أدوات Python للأمن",
+    "tagline": "مجموعة أدوات أمنية",
+    "shortDescription": "أدوات صغيرة بـ Python لاستكشاف الشبكات وفحص الثغرات — جزء من دراستي.",
+    "description": "مجموعة من الأدوات اللي بنيتها بـ Python لأغراض تعليمية في مجال الأمن السيبراني: استكشاف الشبكات، فحص البورتات، وتحليل بسيط للثغرات.",
+    "coverImage": "/images/projects/python-tools/cover.jpg",
+    "gallery": [],
+    "technologies": [
+      "Python",
+      "Networking",
+      "Security"
+    ],
+    "status": "live",
+    "featured": false,
+    "year": 2025,
+    "role": "Security Tooling",
+    "links": {
+      "github": "https://github.com/yourname/security-tools"
+    },
+    "order": 4
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "اسمك هنا",
+  "handle": "yourname",
+  "title": "Full-Stack Developer & Cybersecurity Student",
+  "shortBio": "أبني أنظمة ويب كاملة بفكر كـ مهاجم وبسلّم كـ مطوّر.",
+  "longBio": [
+    "بدأت رحلتي في البرمجة من C++ وأساسيات الخوارزميات، ومع الوقت اتجهت للـ Web Development واكتشفت شغفي في بناء منتجات كاملة من الصفر.",
+    "اليوم أنا طالب أمن سيبراني، وبستخدم المعرفة دي عشان أبني تطبيقات مش بس شغالة — لكن آمنة كمان.",
+    "مش بحب أحصر نفسي في مجال واحد — بحب أتعلم وأطبق، وأشوف الكود بيتحول لمنتج حقيقي بيستخدمه ناس."
+  ],
+  "email": "you@example.com",
+  "location": "Egypt",
+  "availability": "متاح للعمل الحر",
+  "profileImage": "/images/profile.jpg",
+  "resumeUrl": "",
+  "social": {
+    "github": "https://github.com/yourname",
+    "linkedin": "https://linkedin.com/in/yourname",
+    "twitter": "",
+    "email": "you@example.com"
+  }
+}

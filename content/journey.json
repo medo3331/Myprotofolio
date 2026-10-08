@@ -1,0 +1,32 @@
+[
+  {
+    "year": "2023",
+    "title": "البداية مع C++",
+    "description": "أساسيات البرمجة وهياكل البيانات والخوارزميات.",
+    "order": 1
+  },
+  {
+    "year": "2024",
+    "title": "دخلت عالم الويب",
+    "description": "تعلمت HTML, CSS, JavaScript ثم Next.js.",
+    "order": 2
+  },
+  {
+    "year": "2024",
+    "title": "مشروع Magiclly",
+    "description": "أول منصة تعليمية كاملة أبنيها بنفسي.",
+    "order": 3
+  },
+  {
+    "year": "2025",
+    "title": "الأمن السيبراني",
+    "description": "بدأت الدراسة الأكاديمية في مجال الـ Cybersecurity.",
+    "order": 4
+  },
+  {
+    "year": "الآن",
+    "title": "مشاريع متعددة",
+    "description": "نظام Gym + نظام جامعي — بين الدراسة والتطوير.",
+    "order": 5
+  }
+]
