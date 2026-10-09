@@ -213,7 +213,7 @@ export function ProjectForm({ initial, mode }: Props) {
             value={data.coverImage ?? ""}
             onChange={(e) => update("coverImage", e.target.value)}
             className={inputClass + " font-mono"}
-            placeholder="/images/projects/xxx/cover.jpg"
+            placeholder="/images/projects/xxx/cover.png"
           />
         </Field>
 

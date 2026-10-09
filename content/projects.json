@@ -5,7 +5,7 @@
     "tagline": "منصة تعليمية كاملة",
     "shortDescription": "منصة تعليمية بتتيح تصفح المحتوى والتسجيل والتفاعل — مصممة ومبنية من الصفر.",
     "description": "Magiclly هي منصة تعليمية كاملة، صممتها وبنيّتها من الصفر. المشروع بيغطي كل مراحل المنتج: من الـ UI/UX، لبناء الواجهات، لإدارة الحالة، لربط قواعد البيانات، ونشر المنصة.",
-    "coverImage": "/images/projects/magiclly/cover.jpg",
+    "coverImage": "/images/projects/magiclly/cover.png",
     "gallery": [
       "/images/projects/magiclly/1.jpg",
       "/images/projects/magiclly/2.jpg",
@@ -41,7 +41,7 @@
     "tagline": "إدارة أعضاء واشتراكات",
     "shortDescription": "نظام متكامل لإدارة الأعضاء، الاشتراكات، الحضور، والمدفوعات مع لوحة تحكم.",
     "description": "نظام كامل لإدارة صالة رياضية، بيشمل إدارة الأعضاء، متابعة الاشتراكات، تسجيل الحضور، ومعالجة المدفوعات — مع لوحة تحكم للمسؤول.",
-    "coverImage": "/images/projects/gym/cover.jpg",
+    "coverImage": "/images/projects/gym/cover.png",
     "gallery": [],
     "technologies": [
       "Next.js",
@@ -64,7 +64,7 @@
     "tagline": "إدارة طلاب ومواد ودرجات",
     "shortDescription": "إدارة الطلاب، المواد، الدرجات، والجداول بأدوار مختلفة للطالب والدكتور والإدارة.",
     "description": "نظام جامعي متكامل بيخدم ثلاث فئات: الطلاب، أعضاء هيئة التدريس، والإدارة — بإدارة كاملة للمواد، الدرجات، والجداول الدراسية.",
-    "coverImage": "/images/projects/university/cover.jpg",
+    "coverImage": "/images/projects/university/cover.png",
     "gallery": [],
     "technologies": [
       "Full-Stack",
@@ -87,7 +87,7 @@
     "tagline": "مجموعة أدوات أمنية",
     "shortDescription": "أدوات صغيرة بـ Python لاستكشاف الشبكات وفحص الثغرات — جزء من دراستي.",
     "description": "مجموعة من الأدوات اللي بنيتها بـ Python لأغراض تعليمية في مجال الأمن السيبراني: استكشاف الشبكات، فحص البورتات، وتحليل بسيط للثغرات.",
-    "coverImage": "/images/projects/python-tools/cover.jpg",
+    "coverImage": "/images/projects/python-tools/cover.png",
     "gallery": [],
     "technologies": [
       "Python",
